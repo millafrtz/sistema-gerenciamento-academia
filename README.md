@@ -1,5 +1,6 @@
 Disciplina de Algoritmos de Lógica de Programação
 Prof. Rhafael Freitas da Costa
+
 Informações:
 1. Criar no mínimo as classes sugeridas;
 2. Usar encapsulamento para proteger os dados;
